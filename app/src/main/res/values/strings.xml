@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhoWrotelt_Ridwan</string>
+    <string name="button_text">button_text</string>
+    <string name="input_hint">input_hint</string>
+    <string name="instructions">instructions</string>
+    <string name="no_results" />
+    <string name="no_network" />
+    <string name="no_search_term" />
+    <string name="loading" />
+</resources>
